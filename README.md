@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Module that generates a github style identicon image seeded by string input.
 
 ## Installation
 
